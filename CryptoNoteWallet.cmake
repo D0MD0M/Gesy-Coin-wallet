@@ -1,4 +1,4 @@
 
 set(CN_PROJECT_NAME "gesycoin")
 set(CN_CURRENCY_DISPLAY_NAME "GesyCoin")
-set(CN_CURRENCY_TICKER "")
+set(CN_CURRENCY_TICKER "GEC")
